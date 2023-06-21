@@ -14203,893 +14203,722 @@
         }
       ]
     },
+    "rivers": {
+      "type": "GeometryCollection",
+      "geometries": [
+        { "type": "LineString", "arcs": [739] },
+        { "type": "LineString", "arcs": [740, 503, -497, 492, 741, 494, 742] },
+        { "type": "LineString", "arcs": [743] },
+        { "type": "LineString", "arcs": [744] },
+        {
+          "type": "LineString",
+          "arcs": [745, 582, 746, 747, -589, -588, 748, -559]
+        },
+        { "type": "LineString", "arcs": [749, 750, -295, 751, 752, 753, 754] },
+        { "type": "LineString", "arcs": [755, -186, 756, 181] },
+        { "type": "LineString", "arcs": [757] },
+        { "type": "LineString", "arcs": [758] },
+        { "type": "LineString", "arcs": [759] },
+        { "type": "LineString", "arcs": [760] },
+        {
+          "type": "LineString",
+          "arcs": [
+            761, 762, 763, 764, 765, 766, 767, 768, 769, 770, 771, 772, 773, 774
+          ]
+        },
+        { "type": "LineString", "arcs": [775] }
+      ]
+    },
     "coastlines": {
       "type": "GeometryCollection",
       "geometries": [
-        { "type": "LineString", "arcs": [0] },
-        { "type": "LineString", "arcs": [1, 2] },
-        { "type": "LineString", "arcs": [3, 4] },
-        { "type": "LineString", "arcs": [5, 6, 7, 8] },
-        { "type": "LineString", "arcs": [9] },
-        { "type": "LineString", "arcs": [10] },
-        { "type": "LineString", "arcs": [11] },
-        { "type": "LineString", "arcs": [12] },
-        { "type": "LineString", "arcs": [13] },
-        { "type": "LineString", "arcs": [14] },
-        { "type": "LineString", "arcs": [15] },
-        { "type": "LineString", "arcs": [16] },
-        { "type": "LineString", "arcs": [17] },
-        { "type": "LineString", "arcs": [18] },
-        { "type": "LineString", "arcs": [19] },
-        { "type": "LineString", "arcs": [20] },
-        { "type": "LineString", "arcs": [21] },
-        { "type": "LineString", "arcs": [22, 23, 24] },
-        { "type": "LineString", "arcs": [25] },
-        { "type": "LineString", "arcs": [26] },
-        { "type": "LineString", "arcs": [27, 28, 29, 30, 31] },
-        { "type": "LineString", "arcs": [32] },
-        { "type": "LineString", "arcs": [33] },
-        { "type": "LineString", "arcs": [34] },
-        { "type": "LineString", "arcs": [35] },
-        { "type": "LineString", "arcs": [36] },
-        { "type": "LineString", "arcs": [37] },
-        { "type": "LineString", "arcs": [38, 39, 40, 41, 42] },
-        { "type": "LineString", "arcs": [43] },
+        { "type": "LineString", "arcs": [700] },
+        { "type": "LineString", "arcs": [635, 659] },
+        { "type": "LineString", "arcs": [142, 147] },
+        { "type": "LineString", "arcs": [679, 678, 151, 676] },
         { "type": "LineString", "arcs": [44] },
         { "type": "LineString", "arcs": [45] },
         { "type": "LineString", "arcs": [46] },
         { "type": "LineString", "arcs": [47] },
         { "type": "LineString", "arcs": [48] },
         { "type": "LineString", "arcs": [49] },
+        { "type": "LineString", "arcs": [362] },
+        { "type": "LineString", "arcs": [363] },
+        { "type": "LineString", "arcs": [364] },
         { "type": "LineString", "arcs": [50] },
         { "type": "LineString", "arcs": [51] },
         { "type": "LineString", "arcs": [52] },
         { "type": "LineString", "arcs": [53] },
-        { "type": "LineString", "arcs": [54] },
-        { "type": "LineString", "arcs": [55] },
-        { "type": "LineString", "arcs": [56] },
-        { "type": "LineString", "arcs": [57] },
-        { "type": "LineString", "arcs": [58] },
-        { "type": "LineString", "arcs": [59] },
-        { "type": "LineString", "arcs": [60] },
-        { "type": "LineString", "arcs": [61] },
+        { "type": "LineString", "arcs": [776, 68] },
         { "type": "LineString", "arcs": [62] },
-        { "type": "LineString", "arcs": [63] },
-        { "type": "LineString", "arcs": [64] },
-        { "type": "LineString", "arcs": [65] },
-        { "type": "LineString", "arcs": [66] },
-        { "type": "LineString", "arcs": [67] },
-        { "type": "LineString", "arcs": [68] },
-        { "type": "LineString", "arcs": [69] },
-        { "type": "LineString", "arcs": [70] },
-        { "type": "LineString", "arcs": [71] },
-        { "type": "LineString", "arcs": [72] },
-        { "type": "LineString", "arcs": [73] },
-        { "type": "LineString", "arcs": [74] },
-        { "type": "LineString", "arcs": [75] },
-        { "type": "LineString", "arcs": [76] },
-        { "type": "LineString", "arcs": [77] },
-        { "type": "LineString", "arcs": [78] },
-        { "type": "LineString", "arcs": [79] },
-        { "type": "LineString", "arcs": [80] },
-        { "type": "LineString", "arcs": [81] },
-        { "type": "LineString", "arcs": [82] },
-        { "type": "LineString", "arcs": [83] },
-        { "type": "LineString", "arcs": [84] },
-        { "type": "LineString", "arcs": [85] },
-        { "type": "LineString", "arcs": [86] },
-        { "type": "LineString", "arcs": [87, 88, 89, 90, 91] },
-        { "type": "LineString", "arcs": [92] },
-        { "type": "LineString", "arcs": [93] },
-        { "type": "LineString", "arcs": [94] },
-        { "type": "LineString", "arcs": [95] },
-        { "type": "LineString", "arcs": [96] },
-        { "type": "LineString", "arcs": [97] },
+        { "type": "LineString", "arcs": [54] },
+        { "type": "LineString", "arcs": [58, 59, 60, 61] },
+        { "type": "LineString", "arcs": [124] },
+        { "type": "LineString", "arcs": [125] },
+        { "type": "LineString", "arcs": [55] },
+        { "type": "LineString", "arcs": [57] },
+        { "type": "LineString", "arcs": [127] },
+        { "type": "LineString", "arcs": [56] },
+        { "type": "LineString", "arcs": [777, 713, 778, 709] },
+        { "type": "LineString", "arcs": [608] },
+        { "type": "LineString", "arcs": [450] },
+        { "type": "LineString", "arcs": [482] },
+        { "type": "LineString", "arcs": [483] },
+        { "type": "LineString", "arcs": [150] },
+        { "type": "LineString", "arcs": [694] },
+        { "type": "LineString", "arcs": [695] },
+        { "type": "LineString", "arcs": [696] },
+        { "type": "LineString", "arcs": [697] },
+        { "type": "LineString", "arcs": [698] },
+        { "type": "LineString", "arcs": [699] },
+        { "type": "LineString", "arcs": [637] },
+        { "type": "LineString", "arcs": [144] },
+        { "type": "LineString", "arcs": [145] },
+        { "type": "LineString", "arcs": [638] },
+        { "type": "LineString", "arcs": [639] },
+        { "type": "LineString", "arcs": [640] },
+        { "type": "LineString", "arcs": [641] },
+        { "type": "LineString", "arcs": [642] },
+        { "type": "LineString", "arcs": [146] },
+        { "type": "LineString", "arcs": [643] },
+        { "type": "LineString", "arcs": [644] },
+        { "type": "LineString", "arcs": [645] },
+        { "type": "LineString", "arcs": [646] },
+        { "type": "LineString", "arcs": [647] },
+        { "type": "LineString", "arcs": [153] },
+        { "type": "LineString", "arcs": [154] },
+        { "type": "LineString", "arcs": [155] },
+        { "type": "LineString", "arcs": [156] },
+        { "type": "LineString", "arcs": [157] },
+        { "type": "LineString", "arcs": [158] },
+        { "type": "LineString", "arcs": [159] },
+        { "type": "LineString", "arcs": [160] },
+        { "type": "LineString", "arcs": [161] },
+        { "type": "LineString", "arcs": [668] },
+        { "type": "LineString", "arcs": [669] },
+        { "type": "LineString", "arcs": [670] },
+        { "type": "LineString", "arcs": [648] },
+        { "type": "LineString", "arcs": [652] },
+        { "type": "LineString", "arcs": [686] },
+        { "type": "LineString", "arcs": [687] },
+        { "type": "LineString", "arcs": [656] },
+        { "type": "LineString", "arcs": [360] },
+        { "type": "LineString", "arcs": [658] },
+        { "type": "LineString", "arcs": [779, 661, 780, 663] },
+        { "type": "LineString", "arcs": [664] },
+        { "type": "LineString", "arcs": [227] },
+        { "type": "LineString", "arcs": [671] },
+        { "type": "LineString", "arcs": [672] },
+        { "type": "LineString", "arcs": [673] },
+        { "type": "LineString", "arcs": [674] },
         {
           "type": "LineString",
-          "arcs": [98, 99, 100, 101, 102, 103, 104, 105, 106, 107]
+          "arcs": [313, 345, 347, 349, 351, 781, 304, 291, 165, 176]
         },
-        { "type": "LineString", "arcs": [108, 109, 110, 111] },
-        { "type": "LineString", "arcs": [112, 113, 114, 115, 116] },
-        { "type": "LineString", "arcs": [117] },
-        { "type": "LineString", "arcs": [118] },
+        { "type": "LineString", "arcs": [-312, -362, -308, -178] },
+        { "type": "LineString", "arcs": [162, 172, 173, 174] },
+        { "type": "LineString", "arcs": [222] },
+        { "type": "LineString", "arcs": [226] },
+        { "type": "LineString", "arcs": [272] },
+        { "type": "LineString", "arcs": [273] },
+        { "type": "LineString", "arcs": [268] },
+        {
+          "type": "LineString",
+          "arcs": [
+            315, 782, 317, 321, 783, 323, 327, 330, 784, 336, 337, 342, 343,
+            289, 114, 115, 116, 117, 118, 21, 126, 23, 24, 25, 79, 80, 81, 82,
+            83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99,
+            100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 285, 286, 344,
+            340, 785, 335, 329, 786, 326
+          ]
+        },
+        { "type": "LineString", "arcs": [319, 320] },
+        { "type": "LineString", "arcs": [214, 787, 216, 213] },
+        { "type": "LineString", "arcs": [655] },
+        { "type": "LineString", "arcs": [-240] },
+        { "type": "LineString", "arcs": [688] },
+        {
+          "type": "LineString",
+          "arcs": [
+            388, 19, 715, 788, 717, 457, 454, 721, 719, 445, 448, 542, 613, 667,
+            239, 240, 554, 789, 262, 790, 557, 585, 603, 615, 610, 616, 736,
+            624, 680, 654, 355, 634, 632, 633, 357, 628, 630, 600, 657, 602,
+            568, 224, 590, 592, 594, 245, 681, 549, 271, 248, 791, 250, 792,
+            252, 793, 254, 794
+          ]
+        },
+        {
+          "type": "LineString",
+          "arcs": [
+            795, 231, 506, 510, 508, 649, 796, 651, 505, 487, 488, 675, 490,
+            499, 520, 513, 523, 541, 476, 470, 691, 468, 692, 463, 481, 465,
+            478, 689, 693, 462, 720, 204, 683, 725, 727, 195, 199, 8, 436, 283,
+            370, 439, 182, 438, 427, 429, 431, 405, 400, 389, 406, 409, 413,
+            421, 423, 418, 420, 378, 452, 373, 387
+          ]
+        },
+        { "type": "LineString", "arcs": [-229] },
+        { "type": "LineString", "arcs": [-6] },
+        { "type": "LineString", "arcs": [149, 276] },
+        { "type": "LineString", "arcs": [701, 797, 798, 705, 706] },
+        { "type": "LineString", "arcs": [228, 229] },
+        { "type": "LineString", "arcs": [-260] },
+        { "type": "LineString", "arcs": [799, -258, 800] },
+        { "type": "LineString", "arcs": [801, -4, -3] },
+        { "type": "LineString", "arcs": [267] },
+        { "type": "LineString", "arcs": [275] },
+        { "type": "LineString", "arcs": [0] },
+        { "type": "LineString", "arcs": [738] },
         { "type": "LineString", "arcs": [119] },
         { "type": "LineString", "arcs": [120] },
         { "type": "LineString", "arcs": [121] },
+        { "type": "LineString", "arcs": [122] },
+        { "type": "LineString", "arcs": [123] },
+        { "type": "LineString", "arcs": [266] },
+        { "type": "LineString", "arcs": [264] },
+        { "type": "LineString", "arcs": [265] },
+        { "type": "LineString", "arcs": [78] },
         {
           "type": "LineString",
-          "arcs": [
-            122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134,
-            135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147,
-            148, 149, 150, 151, 152, 153, 154, 155, 156, 157, 158, 159, 160,
-            161, 162, 163, 164, 165, 166, 167, 168, 169, 170, 171, 172, 173,
-            174, 175, 176, 177, 178, 179, 180, 181, 182, 183, 184, 185
-          ]
+          "arcs": [-137, -136, -135, -536, -541, -666, -237]
         },
-        { "type": "LineString", "arcs": [186, 187] },
-        { "type": "LineString", "arcs": [188, 189, 190, 191] },
-        { "type": "LineString", "arcs": [192] },
-        { "type": "LineString", "arcs": [193] },
-        { "type": "LineString", "arcs": [194] },
-        {
-          "type": "LineString",
-          "arcs": [
-            195, 196, 197, 198, 199, 200, 201, 202, 203, 204, 205, 206, 207,
-            208, 209, -194, 210, 211, 212, 213, 214, 215, 216, 217, 218, 219,
-            220, 221, 222, 223, 224, 225, 226, 227, 228, 229, 230, 231, 232,
-            233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245,
-            246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257
-          ]
-        },
-        {
-          "type": "LineString",
-          "arcs": [
-            258, 259, 260, 261, 262, 263, 264, 265, 266, 267, 268, 269, 270,
-            271, 272, 273, 274, 275, 276, 277, 278, 279, 280, 281, 282, 283,
-            284, 285, 286, 287, 288, 289, 290, 291, 292, 293, 294, 295, 296,
-            297, 298, 299, 300, 301, 302, 303, 304, 305, 306, 307, 308, 309,
-            310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322,
-            323, 324, 325, 326, 327, 328, 329, 330, 331
-          ]
-        },
-        { "type": "LineString", "arcs": [332] },
-        { "type": "LineString", "arcs": [333] },
-        { "type": "LineString", "arcs": [334, 335, 336] },
-        { "type": "LineString", "arcs": [337, 338, 339, 340, 341] },
-        { "type": "LineString", "arcs": [-333, 342] },
-        { "type": "LineString", "arcs": [343] },
-        { "type": "LineString", "arcs": [344, 345, 346] },
-        { "type": "LineString", "arcs": [347, 348, 349] },
-        { "type": "LineString", "arcs": [350] },
-        { "type": "LineString", "arcs": [351] },
-        { "type": "LineString", "arcs": [352] },
-        { "type": "LineString", "arcs": [353] },
-        { "type": "LineString", "arcs": [354] },
-        { "type": "LineString", "arcs": [355] },
-        { "type": "LineString", "arcs": [356] },
-        { "type": "LineString", "arcs": [357] },
-        { "type": "LineString", "arcs": [358] },
-        { "type": "LineString", "arcs": [359] },
-        { "type": "LineString", "arcs": [360] },
-        { "type": "LineString", "arcs": [361] },
-        { "type": "LineString", "arcs": [362] },
-        {
-          "type": "LineString",
-          "arcs": [363, 364, 365, 366, 367, 368, 369, 370]
-        },
-        { "type": "LineString", "arcs": [371] },
-        { "type": "LineString", "arcs": [372] },
-        { "type": "LineString", "arcs": [373] },
-        { "type": "LineString", "arcs": [374] },
-        { "type": "LineString", "arcs": [375, 376] },
-        { "type": "LineString", "arcs": [377, 378, 379, 380, 381] },
-        { "type": "LineString", "arcs": [382] },
-        { "type": "LineString", "arcs": [383] },
-        { "type": "LineString", "arcs": [384] },
-        { "type": "LineString", "arcs": [385] },
-        { "type": "LineString", "arcs": [386] },
-        { "type": "LineString", "arcs": [387] },
-        { "type": "LineString", "arcs": [388] },
-        { "type": "LineString", "arcs": [389, 390, 391] },
-        { "type": "LineString", "arcs": [392] },
-        { "type": "LineString", "arcs": [393] },
-        { "type": "LineString", "arcs": [394] }
+        { "type": "LineString", "arcs": [77] },
+        { "type": "LineString", "arcs": [43] },
+        { "type": "LineString", "arcs": [41] },
+        { "type": "LineString", "arcs": [74] },
+        { "type": "LineString", "arcs": [802, 75] },
+        { "type": "LineString", "arcs": [803, 64, 65, 66] },
+        { "type": "LineString", "arcs": [42] },
+        { "type": "LineString", "arcs": [221] },
+        { "type": "LineString", "arcs": [220] },
+        { "type": "LineString", "arcs": [219] },
+        { "type": "LineString", "arcs": [70] },
+        { "type": "LineString", "arcs": [218] },
+        { "type": "LineString", "arcs": [217] },
+        { "type": "LineString", "arcs": [804, 72] },
+        { "type": "LineString", "arcs": [73] },
+        { "type": "LineString", "arcs": [274] },
+        { "type": "LineString", "arcs": [69] }
+      ]
+    },
+    "lakes": {
+      "type": "GeometryCollection",
+      "geometries": [
+        { "arcs": [[805]], "type": "Polygon" },
+        { "arcs": [[806]], "type": "Polygon" },
+        { "arcs": [[807]], "type": "Polygon" },
+        { "arcs": [[808, 809]], "type": "Polygon" },
+        { "arcs": [[810, 811, 812, 813, 814]], "type": "Polygon" },
+        { "arcs": [[815, 816, 817, 818, 819]], "type": "Polygon" },
+        { "arcs": [[820, 821]], "type": "Polygon" },
+        { "arcs": [[822]], "type": "Polygon" },
+        { "arcs": [[823]], "type": "Polygon" },
+        { "arcs": [[824]], "type": "Polygon" },
+        { "arcs": [[825]], "type": "Polygon" },
+        { "arcs": [[826, 827]], "type": "Polygon" },
+        { "arcs": [[828]], "type": "Polygon" },
+        { "arcs": [[829]], "type": "Polygon" },
+        { "arcs": [[830]], "type": "Polygon" },
+        { "arcs": [[831]], "type": "Polygon" },
+        { "arcs": [[832]], "type": "Polygon" },
+        { "arcs": [[833]], "type": "Polygon" },
+        { "arcs": [[834]], "type": "Polygon" },
+        { "arcs": [[835]], "type": "Polygon" },
+        { "arcs": [[836]], "type": "Polygon" },
+        { "arcs": [[837]], "type": "Polygon" },
+        { "arcs": [[838]], "type": "Polygon" },
+        { "arcs": [[839, 840, 841, 842]], "type": "Polygon" },
+        { "arcs": [[-841, 843, 844, 845, 846, 847, 848]], "type": "Polygon" }
       ]
     },
     "land": {
       "type": "GeometryCollection",
       "geometries": [
-        { "type": "Polygon", "arcs": [[49]] },
-        { "type": "Polygon", "arcs": [[0]] },
-        { "type": "Polygon", "arcs": [[48]] },
-        { "type": "Polygon", "arcs": [[52]] },
-        { "type": "Polygon", "arcs": [[53]] },
-        { "type": "Polygon", "arcs": [[51]] },
-        { "type": "Polygon", "arcs": [[50]] },
-        { "type": "Polygon", "arcs": [[337, 443, 444, 445, 340, 446]] },
-        { "type": "Polygon", "arcs": [[114, 447, 116, 112, 113]] },
-        { "type": "Polygon", "arcs": [[350]] },
-        { "type": "Polygon", "arcs": [[351]] },
-        { "type": "Polygon", "arcs": [[65]] },
-        { "type": "Polygon", "arcs": [[64]] },
-        { "type": "Polygon", "arcs": [[63]] },
-        { "type": "Polygon", "arcs": [[54]] },
-        { "type": "Polygon", "arcs": [[352]] },
-        { "type": "Polygon", "arcs": [[448, 348, 449, 450]] },
-        { "type": "Polygon", "arcs": [[333, -451]] },
-        { "type": "Polygon", "arcs": [[45]] },
-        { "type": "Polygon", "arcs": [[46]] },
-        { "type": "Polygon", "arcs": [[44]] },
-        { "type": "Polygon", "arcs": [[66]] },
-        { "type": "Polygon", "arcs": [[57]] },
-        { "type": "Polygon", "arcs": [[72]] },
-        { "type": "Polygon", "arcs": [[59]] },
-        { "type": "Polygon", "arcs": [[58]] },
-        { "type": "Polygon", "arcs": [[336, 334, 335]] },
-        { "type": "Polygon", "arcs": [[74]] },
-        { "type": "Polygon", "arcs": [[73]] },
-        { "type": "Polygon", "arcs": [[60]] },
-        { "type": "Polygon", "arcs": [[61]] },
-        { "type": "Polygon", "arcs": [[75]] },
-        { "type": "Polygon", "arcs": [[47]] },
-        { "type": "Polygon", "arcs": [[62]] },
-        { "type": "Polygon", "arcs": [[56]] },
-        { "type": "Polygon", "arcs": [[69]] },
-        { "type": "Polygon", "arcs": [[68]] },
-        { "type": "Polygon", "arcs": [[55]] },
-        { "type": "Polygon", "arcs": [[3, 4]] },
-        { "type": "Polygon", "arcs": [[71]] },
-        { "type": "Polygon", "arcs": [[70]] },
-        { "type": "Polygon", "arcs": [[76]] },
-        { "type": "Polygon", "arcs": [[8, 5, 6, 7]] },
-        { "type": "Polygon", "arcs": [[79]] },
-        { "type": "Polygon", "arcs": [[67]] },
-        { "type": "Polygon", "arcs": [[353]] },
-        { "type": "Polygon", "arcs": [[78]] },
-        { "type": "Polygon", "arcs": [[94]] },
-        { "type": "Polygon", "arcs": [[96]] },
-        { "type": "Polygon", "arcs": [[97]] },
-        { "type": "Polygon", "arcs": [[77]] },
-        { "type": "Polygon", "arcs": [[95]] },
-        { "type": "Polygon", "arcs": [[15]] },
-        { "type": "Polygon", "arcs": [[16]] },
-        { "type": "Polygon", "arcs": [[188, 451, 190, 191]] },
-        { "type": "Polygon", "arcs": [[80]] },
-        { "type": "Polygon", "arcs": [[354]] },
-        { "type": "Polygon", "arcs": [[355]] },
-        { "type": "Polygon", "arcs": [[356]] },
-        { "type": "Polygon", "arcs": [[357]] },
-        { "type": "Polygon", "arcs": [[358]] },
-        { "type": "Polygon", "arcs": [[17]] },
-        { "type": "Polygon", "arcs": [[359]] },
-        { "type": "Polygon", "arcs": [[81]] },
-        { "type": "Polygon", "arcs": [[360]] },
-        { "type": "Polygon", "arcs": [[361]] },
-        { "type": "Polygon", "arcs": [[194]] },
-        { "type": "Polygon", "arcs": [[452, 453, 40, 454, 455, 42, 38]] },
-        { "type": "Polygon", "arcs": [[43]] },
-        { "type": "Polygon", "arcs": [[192]] },
-        { "type": "Polygon", "arcs": [[84]] },
-        { "type": "Polygon", "arcs": [[82]] },
-        { "type": "Polygon", "arcs": [[85]] },
-        { "type": "Polygon", "arcs": [[83]] },
-        { "type": "Polygon", "arcs": [[362]] },
-        { "type": "Polygon", "arcs": [[371]] },
-        { "type": "Polygon", "arcs": [[35]] },
-        { "type": "Polygon", "arcs": [[18]] },
-        { "type": "Polygon", "arcs": [[34]] },
-        { "type": "Polygon", "arcs": [[93]] },
-        { "type": "Polygon", "arcs": [[2, 1]] },
-        { "type": "Polygon", "arcs": [[86]] },
-        { "type": "Polygon", "arcs": [[33]] },
-        { "type": "Polygon", "arcs": [[88, 89, 90, 91, 87]] },
-        { "type": "Polygon", "arcs": [[32]] },
-        { "type": "Polygon", "arcs": [[372]] },
-        { "type": "Polygon", "arcs": [[373]] },
-        { "type": "Polygon", "arcs": [[36]] },
-        { "type": "Polygon", "arcs": [[19]] },
-        { "type": "Polygon", "arcs": [[92]] },
-        { "type": "Polygon", "arcs": [[374]] },
-        { "type": "Polygon", "arcs": [[-333, 342, 456]] },
-        { "type": "Polygon", "arcs": [[376, 457]] },
-        { "type": "Polygon", "arcs": [[344, 345, 458, 459]] },
-        { "type": "Polygon", "arcs": [[343, 460]] },
+        { "arcs": [[695]], "type": "Polygon" },
+        { "arcs": [[700]], "type": "Polygon" },
+        { "arcs": [[694]], "type": "Polygon" },
+        { "arcs": [[698]], "type": "Polygon" },
+        { "arcs": [[699]], "type": "Polygon" },
+        { "arcs": [[697]], "type": "Polygon" },
+        { "arcs": [[696]], "type": "Polygon" },
+        { "arcs": [[701, 702, 849, 850, 705, 851]], "type": "Polygon" },
+        { "arcs": [[172, 852, 174, 162]], "type": "Polygon" },
+        { "arcs": [[267]], "type": "Polygon" },
+        { "arcs": [[275]], "type": "Polygon" },
+        { "arcs": [[645]], "type": "Polygon" },
+        { "arcs": [[644]], "type": "Polygon" },
+        { "arcs": [[643]], "type": "Polygon" },
+        { "arcs": [[637]], "type": "Polygon" },
+        { "arcs": [[0]], "type": "Polygon" },
+        { "arcs": [[853, 854, 3, 4]], "type": "Polygon" },
+        { "arcs": [[-6, 853]], "type": "Polygon" },
+        { "arcs": [[482]], "type": "Polygon" },
+        { "arcs": [[483]], "type": "Polygon" },
+        { "arcs": [[450]], "type": "Polygon" },
+        { "arcs": [[646]], "type": "Polygon" },
+        { "arcs": [[638]], "type": "Polygon" },
+        { "arcs": [[157]], "type": "Polygon" },
+        { "arcs": [[640]], "type": "Polygon" },
+        { "arcs": [[639]], "type": "Polygon" },
+        { "arcs": [[276, 149]], "type": "Polygon" },
+        { "arcs": [[159]], "type": "Polygon" },
+        { "arcs": [[158]], "type": "Polygon" },
+        { "arcs": [[641]], "type": "Polygon" },
+        { "arcs": [[642]], "type": "Polygon" },
+        { "arcs": [[160]], "type": "Polygon" },
+        { "arcs": [[150]], "type": "Polygon" },
+        { "arcs": [[146]], "type": "Polygon" },
+        { "arcs": [[145]], "type": "Polygon" },
+        { "arcs": [[154]], "type": "Polygon" },
+        { "arcs": [[153]], "type": "Polygon" },
+        { "arcs": [[144]], "type": "Polygon" },
+        { "arcs": [[142, 147]], "type": "Polygon" },
+        { "arcs": [[156]], "type": "Polygon" },
+        { "arcs": [[155]], "type": "Polygon" },
+        { "arcs": [[161]], "type": "Polygon" },
+        { "arcs": [[676, 679, 678, 151]], "type": "Polygon" },
+        { "arcs": [[670]], "type": "Polygon" },
+        { "arcs": [[647]], "type": "Polygon" },
+        { "arcs": [[738]], "type": "Polygon" },
+        { "arcs": [[669]], "type": "Polygon" },
+        { "arcs": [[671]], "type": "Polygon" },
+        { "arcs": [[673]], "type": "Polygon" },
+        { "arcs": [[674]], "type": "Polygon" },
+        { "arcs": [[668]], "type": "Polygon" },
+        { "arcs": [[672]], "type": "Polygon" },
+        { "arcs": [[362]], "type": "Polygon" },
+        { "arcs": [[363]], "type": "Polygon" },
+        { "arcs": [[214, 215, 216, 213]], "type": "Polygon" },
+        { "arcs": [[648]], "type": "Polygon" },
+        { "arcs": [[119]], "type": "Polygon" },
+        { "arcs": [[120]], "type": "Polygon" },
+        { "arcs": [[121]], "type": "Polygon" },
+        { "arcs": [[122]], "type": "Polygon" },
+        { "arcs": [[123]], "type": "Polygon" },
+        { "arcs": [[364]], "type": "Polygon" },
+        { "arcs": [[266]], "type": "Polygon" },
+        { "arcs": [[652]], "type": "Polygon" },
+        { "arcs": [[264]], "type": "Polygon" },
+        { "arcs": [[265]], "type": "Polygon" },
+        { "arcs": [[688]], "type": "Polygon" },
+        { "arcs": [[710, 712, 713, 714, 708, 709]], "type": "Polygon" },
+        { "arcs": [[608]], "type": "Polygon" },
+        { "arcs": [[655]], "type": "Polygon" },
+        { "arcs": [[656]], "type": "Polygon" },
+        { "arcs": [[686]], "type": "Polygon" },
+        { "arcs": [[360]], "type": "Polygon" },
+        { "arcs": [[687]], "type": "Polygon" },
+        { "arcs": [[78]], "type": "Polygon" },
+        { "arcs": [[77]], "type": "Polygon" },
+        { "arcs": [[57]], "type": "Polygon" },
+        { "arcs": [[50]], "type": "Polygon" },
+        { "arcs": [[55]], "type": "Polygon" },
+        { "arcs": [[227]], "type": "Polygon" },
+        { "arcs": [[659, 635]], "type": "Polygon" },
+        { "arcs": [[658]], "type": "Polygon" },
+        { "arcs": [[125]], "type": "Polygon" },
+        { "arcs": [[779, 661, 780, 663]], "type": "Polygon" },
+        { "arcs": [[124]], "type": "Polygon" },
+        { "arcs": [[43]], "type": "Polygon" },
+        { "arcs": [[41]], "type": "Polygon" },
+        { "arcs": [[127]], "type": "Polygon" },
+        { "arcs": [[51]], "type": "Polygon" },
+        { "arcs": [[664]], "type": "Polygon" },
+        { "arcs": [[74]], "type": "Polygon" },
+        { "arcs": [[228, 229, 855]], "type": "Polygon" },
+        { "arcs": [[75, 76]], "type": "Polygon" },
+        { "arcs": [[856, 256, 257, -800]], "type": "Polygon" },
+        { "arcs": [[-260, 857]], "type": "Polygon" },
         {
-          "type": "Polygon",
           "arcs": [
             [
-              461, 145, 146, 462, 149, 150, 151, 152, 153, 463, 155, 156, 157,
-              158, 159, 160, 161, 464, 164, 165, 166, 167, 168, 169, 170, 171,
-              465, 466, 174, 175, 176, 467, 178, 179, 180, 468, 469, 182, 183,
-              470, 185, 186, 471, 98, 99, 100, 101, 102, 472, 104, 105, 106,
-              107, -112, -111, -110, -109, 122, 473, 124, 125, 474, 127, 128,
-              129, 475, 131, 476, 134, 135, 136, 137, 477, 139, 140, 141, 142,
-              143
+              858, 25, 79, 859, 82, 83, 84, 85, 86, 860, 88, 89, 90, 91, 92, 93,
+              94, 861, 97, 98, 99, 100, 101, 102, 103, 104, 862, 863, 107, 108,
+              109, 864, 286, 344, 340, 341, 334, 335, 329, 325, 326, 319, 865,
+              313, 345, 347, 349, 351, 303, 304, 291, 165, 176, 177, 307, 361,
+              311, 315, 316, 317, 321, 322, 323, 327, 330, 331, 336, 866, 343,
+              289, 114, 115, 867, 117, 118, 21, 126, 23
             ]
-          ]
+          ],
+          "type": "Polygon"
         },
-        { "type": "Polygon", "arcs": [[377, 478, 379, 479, 381]] },
-        { "type": "Polygon", "arcs": [[394]] },
-        { "type": "Polygon", "arcs": [[382]] },
-        { "type": "Polygon", "arcs": [[20]] },
-        { "type": "Polygon", "arcs": [[480, 24, 22]] },
-        { "type": "Polygon", "arcs": [[383]] },
-        { "type": "Polygon", "arcs": [[21]] },
-        { "type": "Polygon", "arcs": [[29, 481, 31, 27, 482]] },
-        { "type": "Polygon", "arcs": [[384]] },
-        { "type": "Polygon", "arcs": [[9]] },
-        { "type": "Polygon", "arcs": [[385]] },
-        { "type": "Polygon", "arcs": [[386]] },
-        { "type": "Polygon", "arcs": [[25]] },
-        { "type": "Polygon", "arcs": [[118]] },
-        { "type": "Polygon", "arcs": [[12]] },
-        { "type": "Polygon", "arcs": [[26]] },
+        { "arcs": [[63, 64, 868, 66]], "type": "Polygon" },
+        { "arcs": [[69]], "type": "Polygon" },
+        { "arcs": [[42]], "type": "Polygon" },
+        { "arcs": [[52]], "type": "Polygon" },
+        { "arcs": [[67, 68]], "type": "Polygon" },
+        { "arcs": [[221]], "type": "Polygon" },
+        { "arcs": [[53]], "type": "Polygon" },
+        { "arcs": [[59, 869, 61, 870]], "type": "Polygon" },
+        { "arcs": [[220]], "type": "Polygon" },
+        { "arcs": [[44]], "type": "Polygon" },
+        { "arcs": [[219]], "type": "Polygon" },
+        { "arcs": [[70]], "type": "Polygon" },
+        { "arcs": [[62]], "type": "Polygon" },
+        { "arcs": [[226]], "type": "Polygon" },
+        { "arcs": [[47]], "type": "Polygon" },
+        { "arcs": [[54]], "type": "Polygon" },
         {
-          "type": "Polygon",
-          "arcs": [
-            [-369, -368, -367, 483, -365, -364, -371, -370],
-            [
-              484, 259, 485, 261, 486, 263, 264, 265, 266, 487, 268, 269, 488,
-              271, 272, 273, 274, 275, 276, 277, 278, 279, 489, 281, 282, 283,
-              284, 285, 286, 287, 288, 289, 290, 291, 292, 490, 294, 295, 296,
-              297, 298, 299, 300, 301, 302, 491, 304, 305, 306, 307, 308, 492,
-              310, 311, 312, 313, 314, 315, 316, 317, 318, 319, 320, 321, 322,
-              323, 324, 325, 326, 327, 328, 329, 330, 331, 195, 196, 197, 198,
-              199, 200, 493, 202, 203, 204, 205, 206, 207, 208, 209, -194, 210,
-              211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223,
-              224, 225, 226, 227, 228, 229, 230, 231, 232, 233, 234, 235, 236,
-              237, 238, 239, 240, 241, 242, 243, 244, 494, 246, 495, 248, 496,
-              250, 497, 252, 498, 254, 499, 256, 500, -457
-            ]
-          ]
+          "arcs": [[-666, -237, -137, 871, -135, -536, -541]],
+          "type": "Polygon"
         },
-        { "type": "Polygon", "arcs": [[10]] },
-        { "type": "Polygon", "arcs": [[13]] },
-        { "type": "Polygon", "arcs": [[120]] },
-        { "type": "Polygon", "arcs": [[14]] },
-        { "type": "Polygon", "arcs": [[11]] },
-        { "type": "Polygon", "arcs": [[37]] },
-        { "type": "Polygon", "arcs": [[387]] },
-        { "type": "Polygon", "arcs": [[121]] },
-        { "type": "Polygon", "arcs": [[119]] },
-        { "type": "Polygon", "arcs": [[117]] },
-        { "type": "Polygon", "arcs": [[388]] },
-        { "type": "Polygon", "arcs": [[389, 501, 391]] },
-        { "type": "Polygon", "arcs": [[392]] },
-        { "type": "Polygon", "arcs": [[393]] }
+        { "arcs": [[45]], "type": "Polygon" },
+        { "arcs": [[48]], "type": "Polygon" },
+        { "arcs": [[273]], "type": "Polygon" },
+        { "arcs": [[49]], "type": "Polygon" },
+        { "arcs": [[46]], "type": "Polygon" },
+        { "arcs": [[56]], "type": "Polygon" },
+        { "arcs": [[218]], "type": "Polygon" },
+        { "arcs": [[268]], "type": "Polygon" },
+        { "arcs": [[272]], "type": "Polygon" },
+        { "arcs": [[222]], "type": "Polygon" },
+        { "arcs": [[217]], "type": "Polygon" },
+        { "arcs": [[71, 72]], "type": "Polygon" },
+        { "arcs": [[73]], "type": "Polygon" },
+        { "arcs": [[274]], "type": "Polygon" }
       ]
     },
     "ocean": {
       "type": "GeometryCollection",
       "geometries": [
         {
-          "type": "Polygon",
-          "arcs": [[370, 363, 364, -484, 366, 367, 368, 369]]
+          "arcs": [[-237, -137, 871, -135, -536, -541, -666]],
+          "type": "Polygon"
         },
         {
-          "type": "Polygon",
           "arcs": [
-            [-447, -341, -446, -445, -444, -338],
-            [-384],
-            [-386],
-            [-385],
-            [-121],
-            [-122],
-            [-389],
-            [-120],
-            [-394],
-            [-118],
-            [-119],
-            [-93],
-            [
-              -143, -142, -141, -140, -478, -138, -137, -136, -135, -477, -132,
-              -476, -130, -129, -128, -475, -126, -125, -474, -123, 108, 109,
-              110, 111, -108, -107, -106, -105, -473, -103, -102, -101, -100,
-              -99, -472, -187, -186, -471, -184, -183, -470, -469, -181, -180,
-              -179, -468, -177, -176, -175, -467, -466, -172, -171, -170, -169,
-              -168, -167, -166, -165, -465, -162, -161, -160, -159, -158, -157,
-              -156, -464, -154, -153, -152, -151, -150, -463, -147, -146, -462,
-              -144
-            ],
-            [-21],
-            [-383],
-            [-374],
-            [-373],
-            [-20],
-            [-375],
-            [-25, -481, -23],
-            [-22],
-            [-28, -32, -482, -30, -483],
-            [-480, -380, -479, -378, -382],
-            [-395],
-            [-458, -377],
-            [-26],
-            [-387],
-            [-13],
-            [-393],
-            [-27],
-            [-14],
-            [-38],
-            [-15],
-            [-502, -390, -392],
-            [-12],
-            [-11],
-            [-10],
-            [-92, -91, -90, -89, -88],
-            [-19],
-            [-363],
-            [-372],
-            [-3, -2],
-            [-362],
-            [-361],
-            [-360],
-            [-18],
-            [-191, -452, -189, -192],
-            [-16],
-            [-17],
-            [-354],
-            [-67],
-            [-47],
-            [-46],
-            [-353],
-            [-55],
-            [-64],
-            [-65],
-            [-66],
-            [-45],
-            [-58],
-            [-4, -5],
-            [-56],
-            [-57],
-            [-63],
-            [-62],
-            [-61],
-            [-59],
-            [-60],
-            [-335, -337, -336],
-            [-73],
-            [-75],
-            [-74],
-            [-76],
-            [-48],
-            [-77],
-            [-7, -6, -9, -8],
-            [-72],
-            [-71],
-            [-69],
-            [-70],
-            [-80],
-            [-95],
-            [-97],
-            [-98],
-            [-79],
-            [-78],
-            [-96],
-            [-81],
-            [-352],
-            [-351],
-            [-113, -117, -448, -115, -114],
-            [-355],
-            [-356],
-            [-357],
-            [-358],
-            [-359],
-            [-36],
-            [-35],
-            [-34],
-            [-33],
-            [-37],
-            [-388],
-            [-51],
-            [-52],
-            [-54],
-            [-53],
-            [-1],
-            [-49],
-            [-50],
-            [-82],
-            [-83],
-            [-195],
-            [-84],
-            [-94],
-            [-68],
-            [-193],
-            [-44],
-            [-43, -456, -455, -41, -454, -453, -39],
-            [-85],
-            [-86],
-            [-87],
-            [
-              -343, 332, -501, -257, -500, -255, -499, -253, -498, -251, -497,
-              -249, -496, -247, -495, -245, -244, -243, -242, -241, -240, -239,
-              -238, -237, -236, -235, -234, -233, -232, -231, -230, -229, -228,
-              -227, -226, -225, -224, -223, -222, -221, -220, -219, -218, -217,
-              -216, -215, -214, -213, -212, -211, 193, -210, -209, -208, -207,
-              -206, -205, -204, -203, -494, -201, -200, -199, -198, -197, -196,
-              -332, -331, -330, -329, -328, -327, -326, -325, -324, -323, -322,
-              -321, -320, -319, -318, -317, -316, -315, -314, -313, -312, -311,
-              -493, -309, -308, -307, -306, -305, -492, -303, -302, -301, -300,
-              -299, -298, -297, -296, -295, -491, -293, -292, -291, -290, -289,
-              -288, -287, -286, -285, -284, -283, -282, -490, -280, -279, -278,
-              -277, -276, -275, -274, -273, -272, -489, -270, -269, -488, -267,
-              -266, -265, -264, -487, -262, -486, -260, -485
-            ],
-            [-334, -450, -349, -449],
-            [-347, -346, 502, -344, 503]
-          ]
+            [701, 702, 849, 850, 705, 851],
+            [-697],
+            [-698],
+            [-700],
+            [-699],
+            [-701],
+            [-695],
+            [-696]
+          ],
+          "type": "Polygon"
         }
-      ]
-    },
-    "lakes": {
-      "type": "GeometryCollection",
-      "geometries": [
-        { "type": "Polygon", "arcs": [[504]] },
-        { "type": "Polygon", "arcs": [[505]] },
-        { "type": "Polygon", "arcs": [[506]] },
-        { "type": "Polygon", "arcs": [[507, 508]] },
-        { "type": "Polygon", "arcs": [[509, 510, 511, 512, 513]] },
-        { "type": "Polygon", "arcs": [[514, 515, 516, 517, 518]] },
-        { "type": "Polygon", "arcs": [[519, 520]] },
-        { "type": "Polygon", "arcs": [[521]] },
-        { "type": "Polygon", "arcs": [[522]] },
-        { "type": "Polygon", "arcs": [[523]] },
-        { "type": "Polygon", "arcs": [[524]] },
-        { "type": "Polygon", "arcs": [[525, 526]] },
-        { "type": "Polygon", "arcs": [[527]] },
-        { "type": "Polygon", "arcs": [[528]] },
-        { "type": "Polygon", "arcs": [[529]] },
-        { "type": "Polygon", "arcs": [[530]] },
-        { "type": "Polygon", "arcs": [[531]] },
-        { "type": "Polygon", "arcs": [[532]] },
-        { "type": "Polygon", "arcs": [[533]] },
-        { "type": "Polygon", "arcs": [[534]] },
-        { "type": "Polygon", "arcs": [[535]] },
-        { "type": "Polygon", "arcs": [[536]] },
-        { "type": "Polygon", "arcs": [[537]] },
-        { "type": "Polygon", "arcs": [[538, 539, 540, 541]] },
-        { "type": "Polygon", "arcs": [[-540, 542, 543, 544, 545, 546, 547]] }
-      ]
-    },
-    "rivers": {
-      "type": "GeometryCollection",
-      "geometries": [
-        { "type": "LineString", "arcs": [395] },
-        { "type": "LineString", "arcs": [396, 397, 398, 399, 400, 401, 402] },
-        { "type": "LineString", "arcs": [403] },
-        { "type": "LineString", "arcs": [404] },
-        {
-          "type": "LineString",
-          "arcs": [405, 406, 407, 408, 409, 410, 411, 412]
-        },
-        { "type": "LineString", "arcs": [413, 414, 415, 416, 417, 418, 419] },
-        { "type": "LineString", "arcs": [420, 421, 422, 423] },
-        { "type": "LineString", "arcs": [424] },
-        { "type": "LineString", "arcs": [425] },
-        { "type": "LineString", "arcs": [426] },
-        { "type": "LineString", "arcs": [427] },
-        {
-          "type": "LineString",
-          "arcs": [
-            428, 429, 430, 431, 432, 433, 434, 435, 436, 437, 438, 439, 440, 441
-          ]
-        },
-        { "type": "LineString", "arcs": [442] }
       ]
     },
     "subunits": {
       "type": "GeometryCollection",
       "geometries": [
         {
+          "arcs": [[872, 873, 874, 875, -38, -820]],
           "type": "Polygon",
           "properties": { "ct": [-94.3, 46.32], "gu": "USA" },
-          "id": "MN",
-          "arcs": [[915, 916, 917, 918, -576, -519]]
+          "id": "MN"
         },
         {
+          "arcs": [[876, 877, 878, 879, 880]],
           "type": "Polygon",
           "properties": { "ct": [-109.66, 47.05], "gu": "USA" },
-          "id": "MT",
-          "arcs": [[919, 920, 921, 922, 923]]
+          "id": "MT"
         },
         {
+          "arcs": [[-876, 881, -878, 882]],
           "type": "Polygon",
           "properties": { "ct": [-100.48, 47.46], "gu": "USA" },
-          "id": "ND",
-          "arcs": [[-919, 924, -921, 925]]
+          "id": "ND"
         },
         {
+          "arcs": [[[119]], [[120]], [[121]], [[122]], [[123]]],
           "type": "MultiPolygon",
           "properties": { "ct": [-155.52, 19.6], "gu": "USA" },
-          "id": "HI",
-          "arcs": [[[354]], [[355]], [[356]], [[357]], [[358]]]
+          "id": "HI"
         },
         {
+          "arcs": [[-881, 883, 884, 885, 886, 887, -40]],
           "type": "Polygon",
           "properties": { "ct": [-114.65, 44.39], "gu": "USA" },
-          "id": "ID",
-          "arcs": [[-924, 926, 927, 928, 929, 930, -578]]
+          "id": "ID"
         },
         {
+          "arcs": [[-888, 888, 889, 118, 890]],
           "type": "Polygon",
           "properties": { "ct": [-120.4, 47.38], "gu": "USA" },
-          "id": "WA",
-          "arcs": [[-931, 931, 932, 140, 933]]
+          "id": "WA"
         },
         {
+          "arcs": [[891, 112, 892, 893, 894]],
           "type": "Polygon",
           "properties": { "ct": [-111.66, 34.3], "gu": "USA" },
-          "id": "AZ",
-          "arcs": [[934, 581, 935, 936, 937]]
+          "id": "AZ"
         },
         {
+          "arcs": [[-893, 113, 114, 895, 896]],
           "type": "Polygon",
           "properties": { "ct": [-119.64, 37.26], "gu": "USA" },
-          "id": "CA",
-          "arcs": [[-936, 582, 136, 938, 939]]
+          "id": "CA"
         },
         {
+          "arcs": [[897, 898, 899, 900, 901, 902]],
           "type": "Polygon",
           "properties": { "ct": [-105.55, 39], "gu": "USA" },
-          "id": "CO",
-          "arcs": [[940, 941, 942, 943, 944, 945]]
+          "id": "CO"
         },
         {
+          "arcs": [[-886, 903, -894, -897, 904]],
           "type": "Polygon",
           "properties": { "ct": [-116.65, 39.35], "gu": "USA" },
-          "id": "NV",
-          "arcs": [[-929, 946, -937, -940, 947]]
+          "id": "NV"
         },
         {
+          "arcs": [[-892, -900, 905, 906, 111]],
           "type": "Polygon",
           "properties": { "ct": [-106.09, 34.42], "gu": "USA" },
-          "id": "NM",
-          "arcs": [[-935, -943, 948, 949, 580]]
+          "id": "NM"
         },
         {
+          "arcs": [[-887, -905, -896, 115, 867, 907, -889]],
           "type": "Polygon",
           "properties": { "ct": [-120.54, 43.94], "gu": "USA" },
-          "id": "OR",
-          "arcs": [[-930, -948, -939, 137, 477, 950, -932]]
+          "id": "OR"
         },
         {
+          "arcs": [[-885, 908, -901, -895, -904]],
           "type": "Polygon",
           "properties": { "ct": [-111.67, 39.33], "gu": "USA" },
-          "id": "UT",
-          "arcs": [[-928, 951, -944, -938, -947]]
+          "id": "UT"
         },
         {
+          "arcs": [[-880, 909, 910, -902, -909, -884]],
           "type": "Polygon",
           "properties": { "ct": [-107.55, 43.03], "gu": "USA" },
-          "id": "WY",
-          "arcs": [[-923, 952, 953, -945, -952, -927]]
+          "id": "WY"
         },
         {
+          "arcs": [[911, 771, 772, 912, 913, 914, 915]],
           "type": "Polygon",
           "properties": { "ct": [-92.44, 34.92], "gu": "USA" },
-          "id": "AR",
-          "arcs": [[954, 438, 439, 955, 956, 957, 958]]
+          "id": "AR"
         },
         {
+          "arcs": [[-874, 916, 917, 918, -764, 919]],
           "type": "Polygon",
           "properties": { "ct": [-93.51, 42.08], "gu": "USA" },
-          "id": "IA",
-          "arcs": [[-917, 959, 960, 961, -431, 962]]
+          "id": "IA"
         },
         {
+          "arcs": [[-898, 920, 765, 921, 922]],
           "type": "Polygon",
           "properties": { "ct": [-98.38, 38.48], "gu": "USA" },
-          "id": "KS",
-          "arcs": [[-941, 963, 432, 964, 965]]
+          "id": "KS"
         },
         {
+          "arcs": [[-916, 923, -922, -766, -765, -919, 924, 767, 768, 769]],
           "type": "Polygon",
           "properties": { "ct": [-92.48, 38.38], "gu": "USA" },
-          "id": "MO",
-          "arcs": [[-959, 966, -965, -433, -432, -962, 967, 434, 435, 436]]
+          "id": "MO"
         },
         {
+          "arcs": [[-903, -911, 925, 762, 763, 764, -921]],
           "type": "Polygon",
           "properties": { "ct": [-99.82, 41.53], "gu": "USA" },
-          "id": "NE",
-          "arcs": [[-946, -954, 968, 429, 430, 431, -964]]
+          "id": "NE"
         },
         {
+          "arcs": [[-899, -923, -924, -915, 926, -906]],
           "type": "Polygon",
           "properties": { "ct": [-97.5, 35.58], "gu": "USA" },
-          "id": "OK",
-          "arcs": [[-942, -966, -967, -958, 969, -949]]
+          "id": "OK"
         },
         {
+          "arcs": [[-875, -920, -763, -926, -910, -879, -882]],
           "type": "Polygon",
           "properties": { "ct": [-100.23, 44.45], "gu": "USA" },
-          "id": "SD",
-          "arcs": [[-918, -963, -430, -969, -953, -922, -925]]
+          "id": "SD"
         },
         {
+          "arcs": [[-913, 773, 927, 928, 106, 107, 108, 929]],
           "type": "Polygon",
           "properties": { "ct": [-91.96, 31.05], "gu": "USA" },
-          "id": "LA",
-          "arcs": [[-956, 440, 970, 971, 173, 174, 175, 972]]
+          "id": "LA"
         },
         {
+          "arcs": [[-907, -927, -914, -930, 109, 110]],
           "type": "Polygon",
           "properties": { "ct": [-99.33, 31.46], "gu": "USA" },
-          "id": "TX",
-          "arcs": [[-950, -970, -957, -973, 176, 579]]
+          "id": "TX"
         },
         {
+          "arcs": [[930, 931, 84, 932, 933]],
           "type": "Polygon",
           "properties": { "ct": [-72.74, 41.61], "gu": "USA" },
-          "id": "CT",
-          "arcs": [[973, 974, 151, 975, 976]]
+          "id": "CT"
         },
         {
+          "arcs": [[-931, 934, 935, 936, 82, 937]],
           "type": "Polygon",
           "properties": { "ct": [-71.74, 42.24], "gu": "USA" },
-          "id": "MA",
-          "arcs": [[-974, 977, 978, 979, 149, 980]]
+          "id": "MA"
         },
         {
+          "arcs": [[-937, 938, -28, 939, 81]],
           "type": "Polygon",
           "properties": { "ct": [-71.56, 43.69], "gu": "USA" },
-          "id": "NH",
-          "arcs": [[-980, 981, -565, 982, 148]]
+          "id": "NH"
         },
         {
+          "arcs": [[-932, -938, 83]],
           "type": "Polygon",
           "properties": { "ct": [-71.53, 41.68], "gu": "USA" },
-          "id": "RI",
-          "arcs": [[-975, -981, 150]]
+          "id": "RI"
         },
         {
+          "arcs": [[-936, 940, -29, -939]],
           "type": "Polygon",
           "properties": { "ct": [-72.66, 44.07], "gu": "USA" },
-          "id": "VT",
-          "arcs": [[-979, 983, -566, -982]]
+          "id": "VT"
         },
         {
+          "arcs": [[941, 942, 943, 103, 944]],
           "type": "Polygon",
           "properties": { "ct": [-86.83, 32.77], "gu": "USA" },
-          "id": "AL",
-          "arcs": [[984, 985, 986, 170, 987]]
+          "id": "AL"
         },
         {
+          "arcs": [[-944, 945, 102]],
           "type": "Polygon",
           "properties": { "ct": [-82.5, 28.62], "gu": "USA" },
-          "id": "FL",
-          "arcs": [[-987, 988, 169]]
+          "id": "FL"
         },
         {
+          "arcs": [[-943, 946, 947, 948, 101, -946]],
           "type": "Polygon",
           "properties": { "ct": [-83.45, 32.65], "gu": "USA" },
-          "id": "GA",
-          "arcs": [[-986, 989, 990, 991, 168, -989]]
+          "id": "GA"
         },
         {
+          "arcs": [[-773, 949, -945, 104, 105, -929, -928, -774]],
           "type": "Polygon",
           "properties": { "ct": [-89.66, 32.77], "gu": "USA" },
-          "id": "MS",
-          "arcs": [[-440, 992, -988, 171, 172, -972, -971, -441]]
+          "id": "MS"
         },
         {
+          "arcs": [[-949, 950, 951, 100]],
           "type": "Polygon",
           "properties": { "ct": [-80.88, 33.9], "gu": "USA" },
-          "id": "SC",
-          "arcs": [[-992, 993, 994, 167]]
+          "id": "SC"
         },
         {
+          "arcs": [[-918, 952, -846, 953, 954, -768, -925]],
           "type": "Polygon",
           "properties": { "ct": [-89.2, 40.06], "gu": "USA" },
-          "id": "IL",
-          "arcs": [[-961, 995, -545, 996, 997, -435, -968]]
+          "id": "IL"
         },
         {
+          "arcs": [[-954, -845, 955, 956, 957]],
           "type": "Polygon",
           "properties": { "ct": [-86.28, 39.9], "gu": "USA" },
-          "id": "IN",
-          "arcs": [[-997, -544, 998, 999, 1000]]
+          "id": "IN"
         },
         {
+          "arcs": [[-769, -955, -958, 958, 959, 960, 961]],
           "type": "Polygon",
           "properties": { "ct": [-85.28, 37.51], "gu": "USA" },
-          "id": "KY",
-          "arcs": [[-436, -998, -1001, 1001, 1002, 1003, 1004, 1005]]
+          "id": "KY"
         },
         {
+          "arcs": [[-948, 962, 963, 98, 964, -951]],
           "type": "Polygon",
           "properties": { "ct": [-79.25, 35.54], "gu": "USA" },
-          "id": "NC",
-          "arcs": [[-991, 1006, 1007, -1008, 1008, 165, 1009, -994]]
+          "id": "NC"
         },
         {
+          "arcs": [[-957, 965, -814, 966, 967, -959]],
           "type": "Polygon",
           "properties": { "ct": [-82.79, 40.28], "gu": "USA" },
-          "id": "OH",
-          "arcs": [[-1000, 1010, -513, 1011, 1012, -1002]]
+          "id": "OH"
         },
         {
+          "arcs": [[-772, -912, -770, -962, 968, -963, -947, -942, -950]],
           "type": "Polygon",
           "properties": { "ct": [-86.32, 35.84], "gu": "USA" },
-          "id": "TN",
-          "arcs": [
-            [
-              -439, -955, -437, -1006, -1005, 1004, 1013, -1008, -1007, -990,
-              -985, -993
-            ]
-          ]
+          "id": "TN"
         },
         {
+          "arcs": [
+            [[969, 970, 971, 972, 96, 97, -964, -969, -961]],
+            [[93, 973]]
+          ],
           "type": "MultiPolygon",
           "properties": { "ct": [-78.86, 37.5], "gu": "USA" },
-          "id": "VA",
-          "arcs": [
-            [
-              [
-                -1004, 1014, 1015, 1016, 1017, 163, 164, -1009, 1007, -1014,
-                -1005
-              ]
-            ],
-            [[160, 1018]]
-          ]
+          "id": "VA"
         },
         {
+          "arcs": [[-873, -819, 974, 975, 976, -847, -953, -917]],
           "type": "Polygon",
           "properties": { "ct": [-90, 44.65], "gu": "USA" },
-          "id": "WI",
-          "arcs": [[-916, -518, 1019, 1020, 1021, 1022, -546, -996, -960]]
+          "id": "WI"
         },
         {
+          "arcs": [[-960, -968, 977, 978, -970]],
           "type": "Polygon",
           "properties": { "ct": [-80.61, 38.64], "gu": "USA" },
-          "id": "WV",
-          "arcs": [[-1003, -1013, 1023, 1024, -1015]]
+          "id": "WV"
         },
         {
+          "arcs": [[979, 980, 981, 90, 982]],
           "type": "Polygon",
           "properties": { "ct": [-75.5, 38.99], "gu": "USA" },
-          "id": "DE",
-          "arcs": [[1025, 1026, 1027, 157, 1028]]
+          "id": "DE"
         },
         {
+          "arcs": [[-972, 983]],
           "type": "Polygon",
           "properties": { "ct": [-77.02, 38.9], "gu": "USA" },
-          "id": "DC",
-          "arcs": [[-1017, 1029]]
+          "id": "DC"
         },
         {
+          "arcs": [[-974, 94, 95, -973, -984, -971, -979, 984, -980, 985, 92]],
           "type": "Polygon",
           "properties": { "ct": [-76.77, 39.03], "gu": "USA" },
-          "id": "MD",
-          "arcs": [
-            [
-              -1019, 161, 162, -1018, -1030, -1016, -1025, 1030, -1026, 1031,
-              159
-            ]
-          ]
+          "id": "MD"
         },
         {
+          "arcs": [[-982, 986, 987, 89]],
           "type": "Polygon",
           "properties": { "ct": [-74.67, 40.21], "gu": "USA" },
-          "id": "NJ",
-          "arcs": [[-1028, 1032, 1033, 156]]
+          "id": "NJ"
         },
         {
-          "type": "Polygon",
-          "properties": { "ct": [-75.5, 42.93], "gu": "USA" },
-          "id": "NY",
           "arcs": [
             [
-              -977, 1034, 153, 154, 155, -1034, 1035, -511, 1036, 1037, -508,
-              1038, -567, -984, -978
+              -934, 988, 86, 87, 88, -988, 989, -812, 990, 991, -809, 992, -30,
+              -941, -935
             ]
-          ]
+          ],
+          "type": "Polygon",
+          "properties": { "ct": [-75.5, 42.93], "gu": "USA" },
+          "id": "NY"
         },
         {
+          "arcs": [[-967, -813, -990, -987, -981, -985, -978]],
           "type": "Polygon",
           "properties": { "ct": [-77.81, 40.87], "gu": "USA" },
-          "id": "PA",
-          "arcs": [[-1012, -512, -1036, -1033, -1027, -1031, -1024]]
+          "id": "PA"
         },
         {
+          "arcs": [[-940, -27, 79, 80]],
           "type": "Polygon",
           "properties": { "ct": [-69.22, 45.34], "gu": "USA" },
-          "id": "ME",
-          "arcs": [[-983, -564, 146, 147]]
+          "id": "ME"
         },
         {
+          "arcs": [
+            [[-36, -842, -849, 993, -976, -817]],
+            [[-34, -815, -966, -956, -844, -840]]
+          ],
           "type": "MultiPolygon",
           "properties": { "ct": [-84.61, 43.48], "gu": "USA" },
-          "id": "MI",
-          "arcs": [
-            [[-574, -573, -541, -548, 1039, -1022, -1021, 1020, -516, 573]],
-            [[-571, -514, -1011, -999, -543, -539]]
-          ]
+          "id": "MI"
         },
         {
+          "arcs": [[[125]], [[124]], [[127]], [[-23, 126]]],
           "type": "MultiPolygon",
           "properties": { "ct": [-152.72, 64.44], "gu": "USA" },
-          "id": "AK",
-          "arcs": [[[33]], [[32]], [[36]], [[-563, 142]]]
+          "id": "AK"
         }
       ]
     }
